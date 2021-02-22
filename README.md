@@ -23,7 +23,7 @@ _Para crear una tarjeta necesitas hacer una peticion tipo POST a la siguiente ur
 	"cvv": "Aleatorio"
 }
 ```
-_Los parametro disponibles son_
+_Los parametros disponibles son_
 
 ```
 "ALT"
